@@ -3,10 +3,6 @@
 
 <a href="https://www.linkedin.com/in/mauhammadadnan/"><div style="font-size: 25px; width: 2%;">
 
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=mauhammadadnan&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&show_icons=true&custom_title=GitHub%20Stats(Muhammad+Adnan))](https://github.com/mauhammadadnan)
-<br/>
-
 ## 🏆 **GITHUB TROPHY**
 
 ![https://github.com/mauhammadadnan?tab=repositories](https://github-profile-trophy.vercel.app/?username=mauhammadadnan&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)

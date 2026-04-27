@@ -1,21 +1,19 @@
-<!-- Header Banner -->
+<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=220&section=header&text=Muhammad%20Adnan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Mobile%20%26%20Web%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%" alt="header" />
-</div>
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&height=80&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Adnan" alt="Hi, I'm Muhammad Adnan" />
+  </h1>
 
-<br/>
+  <h3>Software Engineer | Mobile & Web Developer | 7+ Years Experience</h3>
 
-<!-- Typing SVG -->
-<div align="center">
+  <br/>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=React+Native+%7C+React+%7C+Node.js+Developer;Building+Cross-Platform+Mobile+Apps;7%2B+Years+of+Software+Engineering;Turning+Ideas+Into+Pixel-Perfect+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=React+Native+%7C+React+%7C+Node.js+Developer;Building+Cross-Platform+Mobile+Apps;7%2B+Years+of+Software+Engineering;Turning+Ideas+Into+Pixel-Perfect+Apps" alt="Typing SVG" />
   </a>
-</div>
 
-<br/>
+  <br/><br/>
 
-<!-- Profile Views & Followers -->
-<div align="center">
   <a href="https://github.com/mauhammadadnan">
     <img src="https://komarev.com/ghpvc/?username=mauhammadadnan&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   </a>
@@ -25,11 +23,13 @@
   </a>
   &nbsp;
   <a href="https://github.com/mauhammadadnan?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-19-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Repos" />
+    <img src="https://img.shields.io/github/stars/mauhammadadnan?label=Total%20Stars&style=for-the-badge&color=00d4ff&labelColor=0d1117" alt="Stars" />
   </a>
 </div>
 
 <br/>
+
+---
 
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
@@ -52,6 +52,8 @@ interests:
 ```
 
 <br/>
+
+---
 
 <!-- Tech Stack -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
@@ -89,16 +91,18 @@ interests:
 
 <br/>
 
+---
+
 <!-- GitHub Stats -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mauhammadadnan&show_icons=true&theme=react&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&hide_border=false" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mauhammadadnan&show_icons=true&include_all_commits=true&count_private=true&theme=react&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&hide_border=false&rank_icon=github" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mauhammadadnan&theme=react&border=00d4ff&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6600&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauhammadadnan&layout=compact&theme=react&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&hide_border=false" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauhammadadnan&layout=compact&langs_count=8&theme=react&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&hide_border=false" alt="Top Languages" />
 </div>
 
 <br/>
@@ -109,6 +113,8 @@ interests:
 </div>
 
 <br/>
+
+---
 
 <!-- Featured Projects -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Featured Projects
@@ -124,6 +130,8 @@ interests:
 
 <br/>
 
+---
+
 <!-- Connect -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Connect With Me
 
@@ -131,9 +139,11 @@ interests:
   <a href="mailto:adnanmunir1160@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/mauhammadadnan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://github.com/mauhammadadnan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -141,16 +151,8 @@ interests:
 
 <br/>
 
-<!-- GitHub Trophies -->
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> Achievements
+---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mauhammadadnan&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=footer" width="100%" alt="footer" />
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Made with love" />
 </div>

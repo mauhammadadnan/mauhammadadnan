@@ -1,12 +1,14 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=220&section=header&text=Muhammad%20Adnan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Mobile%20%26%20Web%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=220&section=header&text=Muhammad%20Adnan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Mobile%20%26%20Web%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%" alt="header" />
 </div>
+
+<br/>
 
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=React+Native+%7C+React+%7C+Node.js+Developer;Building+Cross-Platform+Mobile+Apps;4%2B+Years+of+Software+Engineering;Turning+Ideas+Into+Pixel-Perfect+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=React+Native+%7C+React+%7C+Node.js+Developer;Building+Cross-Platform+Mobile+Apps;7%2B+Years+of+Software+Engineering;Turning+Ideas+Into+Pixel-Perfect+Apps" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,9 +19,11 @@
   <a href="https://github.com/mauhammadadnan">
     <img src="https://komarev.com/ghpvc/?username=mauhammadadnan&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   </a>
+  &nbsp;
   <a href="https://github.com/mauhammadadnan?tab=followers">
     <img src="https://img.shields.io/github/followers/mauhammadadnan?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117" alt="Followers" />
   </a>
+  &nbsp;
   <a href="https://github.com/mauhammadadnan?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-19-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Repos" />
   </a>
@@ -34,7 +38,7 @@
 name: Muhammad Adnan
 location: Pakistan
 role: Software Engineer
-experience: 4+ years
+experience: 7+ years
 
 currently:
   - Building production-grade mobile apps with React Native
@@ -152,5 +156,5 @@ interests:
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=footer" width="100%" alt="footer" />
 </div>

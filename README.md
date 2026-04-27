@@ -141,15 +141,11 @@ interests:
 
 <br/>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mauhammadadnan/mauhammadadnan/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
+<!-- GitHub Trophies -->
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> Achievements
 
-<!-- Quote -->
 <div align="center">
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Dev Quote" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mauhammadadnan&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="GitHub Trophies" />
 </div>
 
 <br/>

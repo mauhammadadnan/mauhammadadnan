@@ -14,12 +14,8 @@
 
   <br/><br/>
 
-  <a href="https://portfolio-theta-neon-m0ifv6xhzi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-React_Native-00d4ff?style=for-the-badge&logo=expo&logoColor=white&labelColor=0d1117" alt="React Native Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/mauhammadadnan/portfolio-showcase">
-    <img src="https://img.shields.io/badge/Portfolio-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0d1117" alt="Next.js Portfolio" />
+  <a href="https://portfolio-showcase-five-coral.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" />
   </a>
 
   <br/><br/>
@@ -53,7 +49,6 @@ experience: 6+ years
 currently:
   - Senior Software Engineer at BlueQuest (Remote)
   - Building ERA Fit, Amby, and Chaseit — production React Native apps
-  - Maintaining two portfolio sites (Expo + Next.js)
 
 highlights:
   - 10+ production apps shipped to App Store & Google Play
@@ -72,22 +67,6 @@ interests:
   - Next.js & scalable web platforms
   - AI integrations & developer tooling
 ```
-
-<br/>
-
----
-
-<!-- Portfolios -->
-## <img src="https://media.giphy.com/media/26tn33oiTiLyj0ElW/giphy.gif" width="28"> Portfolios
-
-<div align="center">
-
-| Portfolio | Stack | Description |
-| :--- | :--- | :--- |
-| [**Live Portfolio**](https://portfolio-theta-neon-m0ifv6xhzi.vercel.app/) | Expo · React Native Web · TypeScript | Interactive mobile-first portfolio with layout switcher, project filters & CV downloads |
-| [**Portfolio Showcase**](https://github.com/mauhammadadnan/portfolio-showcase) | Next.js 16 · React 19 · Tailwind · Framer Motion | Animated showcase site with particle effects, scroll animations & mobile-responsive design |
-
-</div>
 
 <br/>
 
@@ -192,15 +171,9 @@ interests:
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/mauhammadadnan/portfolio">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mauhammadadnan&repo=portfolio&theme=react&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-  </a>
   <a href="https://github.com/mauhammadadnan/portfolio-showcase">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mauhammadadnan&repo=portfolio-showcase&theme=react&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/mauhammadadnan/CalendarPicker">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mauhammadadnan&repo=CalendarPicker&theme=react&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
   </a>

@@ -149,7 +149,7 @@ interests:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mauhammadadnan&show_icons=true&include_all_commits=true&count_private=true&theme=react&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&hide_border=false&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mauhammadadnan&theme=react&border=00d4ff&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6600&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=mauhammadadnan&theme=react&border=00d4ff&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6600&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -160,7 +160,7 @@ interests:
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mauhammadadnan&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-activity-chart.vercel.app/graph?username=mauhammadadnan&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -171,14 +171,20 @@ interests:
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/mauhammadadnan/portfolio-showcase">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mauhammadadnan&repo=portfolio-showcase&theme=react&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+  <a href="https://portfolio-showcase-five-coral.vercel.app/">
+    <img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00d4ff&height=120&section=header&text=Portfolio%20Showcase&fontSize=22&fontColor=ffffff&fontAlignY=55&desc=Next.js%20%7C%20React%20Native&descAlignY=75&descSize=12" alt="Portfolio Showcase" />
   </a>
   <a href="https://github.com/mauhammadadnan/CalendarPicker">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mauhammadadnan&repo=CalendarPicker&theme=react&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mauhammadadnan&repo=CalendarPicker&theme=react&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" alt="CalendarPicker" />
   </a>
-  <a href="https://github.com/mauhammadadnan/PickupDriverFinal">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mauhammadadnan&repo=PickupDriverFinal&theme=react&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/mauhammadadnan/ReactNativeTodoApp">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mauhammadadnan&repo=ReactNativeTodoApp&theme=react&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" alt="ReactNativeTodoApp" />
+  </a>
+  <a href="https://github.com/mauhammadadnan/react-navigation-v5-mix">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mauhammadadnan&repo=react-navigation-v5-mix&theme=react&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" alt="react-navigation-v5-mix" />
   </a>
 </div>
 
